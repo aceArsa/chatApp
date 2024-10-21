@@ -1,6 +1,6 @@
 {
-  "homepage": "https://acearsa.github.io/chatMe/",
-  "name": "chatme",
+  "homepage": "https://acearsa.github.io/chatApp/",
+  "name": "chatapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
